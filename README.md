@@ -1,8 +1,8 @@
-# flutter_login_page
+# Login Page
 
 Login Page
 
-## screenshot
+## Screenshots
 
 ![App Ui](https://github.com/yarensaatoglu/flutter-login-page/blob/main/gif/appGif.gif)
 
