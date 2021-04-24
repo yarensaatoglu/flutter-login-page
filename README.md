@@ -1,6 +1,6 @@
 # Login Page
 
-The application performs simple registration and login. It happens using Shared preferences.
+The application performs simple registration and login. It happens using shared preferences.
 
 ## Screenshots
 
