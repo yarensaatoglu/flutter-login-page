@@ -1,6 +1,6 @@
 # Login Page
 
-Login Page
+The application performs simple registration and login. It happens using Shared preferences.
 
 ## Screenshots
 
