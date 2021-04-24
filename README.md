@@ -2,7 +2,7 @@
 
 Login Page
 
-## Getting Started
+## screenshot
 
-This project is a starting point for a Flutter application.
+![App Ui](https://github.com/yarensaatoglu/flutter-login-page/blob/main/gif/appGif.gif)
 
